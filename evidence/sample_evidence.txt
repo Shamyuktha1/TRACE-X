@@ -1,0 +1,3 @@
+TRACE-X Digital Evidence Sample
+This file is used for SHA-256 integrity testing.
+UNAUTHORIZED MODIFICATION TEST

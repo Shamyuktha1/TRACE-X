@@ -1,0 +1,6 @@
+.streamlit/secrets.toml
+generate_password.py
+venv/
+__pycache__/
+*.py[cod]
+*.db

@@ -1,0 +1,6 @@
+
+timestamp,user_id,file_name,action,session_id
+2026-11-19 09:06:45,user_205,confidential_report.pdf,FILE_ACCESS,S002
+2026-11-19 09:07:30,user_205,confidential_report.pdf,FILE_MODIFIED,S002
+2026-11-19 09:08:15,user_205,customer_database.csv,FILE_ACCESS,S002
+2026-11-19 09:09:00,user_101,public_notice.txt,FILE_ACCESS,S003
