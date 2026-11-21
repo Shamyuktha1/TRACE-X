@@ -125,6 +125,5 @@ def correlate_evidence(
                 for event in events
             ))
 })
-        })
 
     return incidents
